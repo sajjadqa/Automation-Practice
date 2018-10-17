@@ -1,6 +1,9 @@
 # Insly
 
-Install pip
-install selenium
-install python
+Install pip, 
+
+install python,
+
+install selenium, 
+
 install faker
