@@ -1,9 +1,12 @@
 # Insly
+Following extensions should be installed before running the test script:
 
-Install pip, 
+1. Install pip (https://pip.pypa.io/en/stable/installing/)
 
-install python,
+2. install python 3.4.0 (https://www.python.org/downloads/)
 
-install selenium, 
+3. install selenium (pip install selenium)
 
-install faker
+4. install faker (pip install faker)
+
+5. install requests (pip install requests)
