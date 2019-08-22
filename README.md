@@ -1,4 +1,4 @@
-# Insly
+# Selenium Setup
 Following extensions should be installed before running the test script:
 
 1. Install pip (https://pip.pypa.io/en/stable/installing/)
